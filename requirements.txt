@@ -1,0 +1,2 @@
+# Bundled plugin wheel. pip downloads Manim and the image-extraction dependencies.
+./vendor/manim_handdraw-0.1.1-py3-none-any.whl[extract]
