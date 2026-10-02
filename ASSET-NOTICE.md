@@ -1,7 +1,8 @@
 # Bundled artwork and video excerpts
 
 The paired Order Goddess images in `assets/order-goddess/`, the portrait preview,
-and the three GIFs in `assets/showcase/` are FTZ-OPUS's project examples.
+the three GIFs and Starlight Witch preview in `assets/showcase/`, and the
+Starlight Witch scene assets in `examples/starlight-witch/assets/` are FTZ-OPUS's project examples.
 They are included so people can inspect and reproduce this skill's workflow.
 
 The MIT License covers the skill instructions, Python scripts and example code.
@@ -17,5 +18,6 @@ GIF source videos and excerpt ranges:
 | `purple-knight-colour.gif` | 紫发女骑士手绘版 | 134–160 seconds |
 | `flame-queen-colour.gif` | 烈焰女王手绘版 | 241–269 seconds |
 
-The clips are downscaled for GitHub documentation. Full films remain in the
-author's original project files and are not bundled here.
+The clips are downscaled for GitHub documentation. The Starlight Witch still
+comes from the finished film. Full films remain in the author's original
+project files and are not duplicated here.

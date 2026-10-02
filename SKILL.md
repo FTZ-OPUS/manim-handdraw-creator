@@ -17,4 +17,6 @@ The standard portrait input is **two images of the same composition**: a pencil 
 
 The [paired-input example](examples/paired-inputs.md) gives executable commands using the bundled sample images. [`examples/portrait_demo.py`](examples/portrait_demo.py) is a short, runnable preview of the cut/patch/fine-line technique: the pen traces a subset, then all remaining paths appear in a quick reveal. The full six-act composition is in the [original library repository](https://github.com/FTZ-OPUS/manim-handdraw/blob/main/examples/order-goddess-repro/order_goddess.py); it remains the reference for a finished film, not a quick test.
 
+For a second finished character study, see the [Starlight Witch eye-repair case](examples/starlight-witch/README.md). It includes the approved scene source and runtime assets from the original production. Its character-specific redraw coordinates are examples to study, not defaults for new artwork; it was written before the 0.1.1 convenience methods and is not a demonstration of their one-line use.
+
 Preserve existing accepted videos and source files when iterating; save new versions under new names. The quality criteria and common failure modes are in [portrait-workflow.md](references/portrait-workflow.md).

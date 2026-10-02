@@ -12,6 +12,12 @@
 
 ![烈焰女王从线稿到成片](assets/showcase/flame-queen-colour.gif)
 
+### 星辉魔女：双眼修复与局部重描
+
+![星辉魔女眼睛修复版成片画面](assets/showcase/starlight-witch-final.png)
+
+这张是**实际成片画面**，不是彩色参考原图。[查看完整案例源码与运行素材](examples/starlight-witch/README.md)。它保留了原定稿的镜头和笔画编排，展示倾斜双眼的修复、复杂饰品的局部重描，以及线稿到彩色成片的过程。
+
 还有一个可以直接运行的[双图短演示](assets/portrait-preview.gif)，附带配对铅笔稿、彩色原稿、准备脚本和 Manim 源码。
 
 ## 这个技能能做什么

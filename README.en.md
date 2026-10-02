@@ -12,6 +12,12 @@ These GIFs were clipped from the author's actual Manim films. They show what was
 
 ![Flame Queen colouring](assets/showcase/flame-queen-colour.gif)
 
+### Starlight Witch: repaired eyes and local line redraws
+
+![Finished Starlight Witch film frame](assets/showcase/starlight-witch-final.png)
+
+This is a frame from the finished film, not the colour reference. The [complete scene and assets](examples/starlight-witch/README.md) retain the approved choreography and show how the tilted eyes and dense ornaments were repaired.
+
 The [short runnable preview](assets/portrait-preview.gif) comes with a real matched pencil/colour pair, preparation scripts and Manim scene source.
 
 ## Use
